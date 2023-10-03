@@ -121,6 +121,7 @@ Super Blood Hockey is available on the following platforms:<br><br>
 </th>
 </tr>
 </table>
+<br><br>Purchase Steam&trade; Key directly:<br><iframe src="https://www.humblebundle.com/widget/v2/product/super_blood_hockey_widget/5GOI23SVnj?theme=light" width="526" height="270" style="border: none; box-shadow: -12px 10px 20px 0px rgba(0,0,0,0.75)" scrolling="no" frameborder="0"></iframe><br><br>
 <table style="width:30%"><tr>
 <th><a href="https://twitter.com/LorenLemcke">
 <img src="gamesbylorenlogo.png" class="shadow" width="200"><div style="width: 200px;"><font face="Roboto" size=2 color="#444444">Established in Oulu, Finland, Games by Loren Lemcke is a one-man indie studio trapped in a tangent universe where the arcade scene of the '80s and '90s lived on forever.</th>
